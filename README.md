@@ -1,6 +1,5 @@
-﻿Sliding Window Protocol
-
-(Selective Retransmission and Cumulative ACK)
+# Sliding Window Protocol  
+Selective Retransmission and Cumulative ACK
 
 ### **Implementing Sliding Window Protocol that uses selective retransmission and cumulative ACK.**
 # **Overview**
