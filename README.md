@@ -128,7 +128,7 @@ will cause 60% of messages to be corrupted and thus your receiving host code log
    1. Set timeout for frame1  
    1. Execute  
    ![](README_imgs/Aspose.Words.ec9445f7-607f-421f-b6ee-b6d723defc7e.006.png)  
-   ![](README_imgs/Aspose.Words.ec9445f7-607f-421f-b6ee-b6d723defc7e.007.png)	
+   ![](README_imgs/Aspose.Words.ec9445f7-607f-421f-b6ee-b6d723defc7e.007.PNG)	
 
    1. Repeat Steps A, B, C for the next frame and continue until all 8 frames are sent **If you need to re-transmit multiple timed-out frames at the same time, then you need NOT keep a delay of 10 ms between sending of these frames.**
 
